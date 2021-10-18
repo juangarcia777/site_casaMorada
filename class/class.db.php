@@ -6,20 +6,11 @@
 	date_default_timezone_set('America/Sao_Paulo');
 
 
-	//$host = $_SERVER['HTTP_HOST'];
-	//define("HOST", "localhost");
-	//define("DBNAME", "sis_casamorada");
-	//define("USER", "sis");
-	//define("PASSWORD", "inicial2011");
-
 
 	define("HOST", "localhost");
 	define("DBNAME", "amorada");
 	define("USER", "root");
 	define("PASSWORD", "");
-	//define("PATH", "http://".$host."/portinari/");
-	//define("REPOSITORY", "repository/");
-
 
 
 
